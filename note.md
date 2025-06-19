@@ -5,7 +5,7 @@
 - IndorePlants.
 - Home | About | Popular | Review
 
-##  Hero Section
+###  Hero Section Content (heading, icons and description):
 - <span class="text-yellow-500">Plants</span> make a <br>
     positive 
 - <span class="text-yellow-500">impact</span> on <br>
@@ -21,116 +21,110 @@
 
 - You will get 30-days free trial.
 
+--icon
 - <i class="ri-facebook-fill"></i>
 - <i class="ri-twitter-x-line"></i>
 - <i class="ri-instagram-line"></i>
-<i class="ri-linkedin-fill"></i>
+- <i class="ri-linkedin-fill"></i>
 
 - <i class="ri-leaf-line"></i>
 - <i class="ri-flower-line"></i>
 - <i class="ri-plant-line"></i>
 
-~~~~~~~~~~~~~~~ Services ~~~~~~~~~~~~~~~
-<i class="ri-truck-line"></i>
+### Sercive Section Content (heading, icons and description):
+-<i class="ri-truck-line"></i>
 
-Fast <br>
-Delivery
+-Fast <br>Delivery
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, facere debitis omnis
+-Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, facere debitis omnis
 
-<i class="ri-customer-service-line"></i>
-Great Customer <br>
-Service
+-<i class="ri-customer-service-line"></i>
+-Great Customer <br>Service
 
-<i class="ri-plant-line"></i>
-Original <br>
-Plants
+-<i class="ri-plant-line"></i>
+-Original <br>Plants
 
-<i class="ri-money-dollar-circle-line"></i>
-Affordable <br>
-Price
+- <i class="ri-money-dollar-circle-line"></i>
+- Affordable <br>Price
 
-~~~~~~~~~~~~~~~ About us ~~~~~~~~~~~~~~~
-About Us
-Follow instruction for more
+### About us Section Content (heading, icons and description):
+- About Us
+- Follow instruction for more
 
-Make your <span class="text-yellow-500">organic</span>  <br>
-garden
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ratione rem maxime veniam cum libero voluptas tempora aut saepe similique, eos corporis. Expedita culpa consequatur animi deleniti ullam adipisci iure sequi dolores modi aliquam laudantium,
+- Make your <span class="text-yellow-500">organic</span>  <br> garden
+
+- Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ratione rem maxime veniam cum libero voluptas tempora aut saepe similique, eos corporis. Expedita culpa consequatur animi deleniti ullam adipisci iure sequi dolores modi aliquam laudantium,
 explicabo nobis quia id reprehenderit.?
 
-Come with us <br>
-<span class="text-yellow-500">grow up</span> 
-your plant
+- Come with us <br> <span class="text-yellow-500">grow up</span> your plant
 
-<!--~~~~~~~~~~~~~~~ Popular ~~~~~~~~~~~~~~~-->
-Your Choice Plant
+### Popular Section Content (heading, icons and description):
+- Your Choice Plant
 
-Nephrolepis exaltata
-Boston Fern
+- Nephrolepis exaltata 
+- Boston Fern
 
-<i class="ri-star-fill"></i>
-<i class="ri-star-fill"></i>
-<i class="ri-star-half-fill"></i>
-<i class="ri-star-line"></i>
-<i class="ri-star-line"></i>
+- <i class="ri-star-fill"></i>
+- <i class="ri-star-fill"></i>
+- <i class="ri-star-half-fill"></i>
+- <i class="ri-star-line"></i>
+- <i class="ri-star-line"></i>
 
-$5
-<i class="ri-shopping-cart-fill"></i>
+- $5
+- <i class="ri-shopping-cart-fill"></i>
 
-Ficus elastica
-Rubber Plant
+- Ficus elastica
+- Rubber Plant
 
-Spathiphyllum wallisii
-Peace Lily
+- Spathiphyllum wallisii
+- Peace Lily
 
-Adenium obesum
-Desert Rose
+- Adenium obesum
+- Desert Rose
 
+### Review Section Content (heading, icons and description):
 
-<!--~~~~~~~~~~~~~~~ Review ~~~~~~~~~~~~~~~-->
+- Customer Review
 
-Customer Review
+- Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique culpa ut amet voluptas asperiores alias sed consequatur.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique culpa ut amet voluptas asperiores alias sed consequatur.
+- John doe
+- Designer
 
-John doe
-Designer
+- <i class="ri-double-quotes-r"></i>
 
-<i class="ri-double-quotes-r"></i>
-
-<!--~~~~~~~~~~~~~~~ Footer ~~~~~~~~~~~~~~~-->
-<span class="text-yellow-500">Subscribe</span> to our newsletter
+### Footer Section Content (heading, icons and description):
+- <span class="text-yellow-500">Subscribe</span> to our newsletter
 Subscribe
 
-<i class="ri-facebook-fill"></i>
-<i class="ri-twitter-x-line"></i>
-<i class="ri-instagram-line"></i>
-<i class="ri-linkedin-fill"></i>
+- <i class="ri-facebook-fill"></i>
+- <i class="ri-twitter-x-line"></i>
+- <i class="ri-instagram-line"></i>
+- <i class="ri-linkedin-fill"></i>
 
-<i class="ri-leaf-fill"></i>
-IndorePlants.
+- <i class="ri-leaf-fill"></i>
+- IndorePlants.
 
-Quick Link
-Plants
-Flowers
-Gerdening
-Seeds
-Shipping
+- Quick Link
+- Plants
+- Flowers
+- Gerdening
+- Seeds
+- Shipping
 
-Popular Services
-Tree Planting
-Grass Cutting
-Weeds Control
-Project
+- Popular Services
+- Tree Planting
+- Grass Cutting
+- Weeds Control
+- Project
 
-Contact Us
-+88 333 78 901
-lightcodecamp@gmail.com
-1234 Tailwind Ave, CSS City, Webland 56789, USA
+- Contact Us
+- +88 333 78 901
+- lightcodecamp@gmail.com
+- 1234 Tailwind Ave, CSS City, Webland 56789, USA
 
-Copyright &copy; 2024 LightCode. All rights reserved.
+- Copyright &copy; 2024 LightCode. All rights reserved.
 
-<!--~~~~~~~~~~~~~~~ Scroll Up ~~~~~~~~~~~~~~~-->
-<i class="ri-arrow-up-line"></i>
+### Scroll Up Section Content (heading, icons and description):
+- <i class="ri-arrow-up-line"></i>
 
