@@ -86,7 +86,7 @@ explicabo nobis quia id reprehenderit.?
 
 - Customer Review
 
-- Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique culpa ut amet voluptas asperiores alias sed consequatur.
+- Lorem ipsum dolor sit amet consectetur adipisicing elit. Similiqu culpa ut amet voluptas asperiores alias sed consequatur.
 
 - John doe
 - Designer
