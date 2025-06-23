@@ -119,8 +119,8 @@ Subscribe
 - Project
 
 - Contact Us
-- +88 333 78 901
-- lightcodecamp@gmail.com
+- +8801708174005
+- ziaul.dev@gmail.com
 - 1234 Tailwind Ave, CSS City, Webland 56789, USA
 
 - Copyright &copy; 2024 LightCode. All rights reserved.
