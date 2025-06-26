@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="overflow-x-hidden scroll-smooth">
 
 <head>
     <meta charset="UTF-8">
@@ -115,7 +115,7 @@
     </header>
 
     <main>
-        <!------------------------ Home Section  ------------------------>
+        <!------------------- Home Section  ---------------->
         <Section id="home" class="py-20 md:py-28 relative">
             <div class="container">
                 <div
@@ -126,7 +126,7 @@
 
                 <div class="flex flex-col items-center gap-5 lg:flex-row">
                     <!-- content  -->
-                    <div class="w-full space-y-5 lg:w-1/2">
+                    <div class="home_data w-full space-y-5 lg:w-1/2">
                         <h1 class="text-3xl md:text-4xl xl:text-5xl font-bold">
                             <span class="text-yellow-500">Plants</span> make a
                             <br>
@@ -165,7 +165,7 @@
 
                     <!-- banner img -->
                     <div class="w-full relative lg:w-1/2">
-                        <img src="./assets/image/home.png" alt="home_img">
+                        <img src="./assets/image/home.png" alt="home_img" class="home_image">
                         <div class="absolute -top-5 right-0 opacity-30 animate-movingY ">
                             <i class="ri-leaf-line text-6xl text-yellow-300"></i>
                         </div>
@@ -180,7 +180,7 @@
             </div>
         </Section>
 
-        <!------------------------- Service Section  ----------------------------->
+        <!------------------ Service Section  -------------------->
         <div class="bg-white text-green-900 py-20">
             <h2 class="text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-bold text-center mb-8">
                 Our Services
@@ -188,7 +188,7 @@
             <div class="container w-full grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
                 <!-- card 1 -->
                 <div
-                    class="border border-green-900 p-5 cursor-pointer rounded-md hover:shadow-2xl hover:-translate-y-1 duration-300 space-y-5">
+                    class="service_card border border-green-900 p-5 cursor-pointer rounded-md hover:shadow-2xl hover:-translate-y-1 duration-300 space-y-5">
                     <div class="flex items-center gap-5">
                         <i class="ri-truck-line text-3xl md:text-4xl xl-text-5xl"></i>
                         <p class="md:text-lg font-bold">Fast <br>
@@ -201,7 +201,7 @@
                 </div>
                 <!-- card 2 -->
                 <div
-                    class="border border-green-900 p-5 cursor-pointer rounded-md hover:shadow-2xl hover:-translate-y-1 duration-300 space-y-5">
+                    class="service_card border border-green-900 p-5 cursor-pointer rounded-md hover:shadow-2xl hover:-translate-y-1 duration-300 space-y-5">
                     <div class="flex items-center gap-5">
                         <i class="ri-customer-service-line text-3xl md:text-4xl xl-text-5xl"></i>
                         <p class="md:text-lg font-bold">Great Customer <br>
@@ -214,7 +214,7 @@
                 </div>
                 <!-- card 3 -->
                 <div
-                    class="border border-green-900 p-5 cursor-pointer rounded-md hover:shadow-2xl hover:-translate-y-1 duration-300 space-y-5">
+                    class="service_card border border-green-900 p-5 cursor-pointer rounded-md hover:shadow-2xl hover:-translate-y-1 duration-300 space-y-5">
                     <div class="flex items-center gap-5">
                         <i class="ri-plant-line text-3xl md:text-4xl xl-text-5xl"></i>
                         <p class="md:text-lg font-bold">Original <br>
@@ -227,7 +227,7 @@
                 </div>
                 <!-- card 4 -->
                 <div
-                    class="border border-green-900 p-5 cursor-pointer rounded-md hover:shadow-2xl hover:-translate-y-1 duration-300 space-y-5">
+                    class="service_card border border-green-900 p-5 cursor-pointer rounded-md hover:shadow-2xl hover:-translate-y-1 duration-300 space-y-5">
                     <div class="flex items-center gap-5">
                         <i class="ri-money-dollar-circle-line text-3xl md:text-4xl xl-text-5xl"></i>
                         <p class="md:text-lg font-bold">Affordable <br>
@@ -240,9 +240,9 @@
                 </div>
             </div>
         </div>
-        <!------------------------- About Us ------------------------------->
+        <!--------------- About Us ---------------------->
         <section id="about" class="relative overflow-hidden pt-8">
-            <div class="absolute -top-10 -right-12 opacity-50">
+            <div class="about_leaf absolute -top-10 -right-12 opacity-50">
                 <img src="./assets/image/leaf-3.png" alt="leaf-img" class="w-40 md:w-52 xl:w-64 animate-scaleUp">
             </div>
 
@@ -253,12 +253,12 @@
 
             <div class="container space-y-10 xl:space-y-0">
                 <!-- item 1 -->
-                <div class="flex flex-col items-center lg:flex-row gap-5">
-                    <div class="w-full lg:w-1/2">
+                <div class="about_top flex flex-col items-center lg:flex-row gap-5">
+                    <div class="about_item_1-img w-full lg:w-1/2">
                         <img src="./assets/image/plant-1.png" alt="about_img"
                             class="w-full sm:w-2/3 lg:w-full xl:w-2/3 mx-auto">
                     </div>
-                    <div class="w-full lg:w-1/2">
+                    <div class="about_item_1-content w-full lg:w-1/2">
                         <div class="space-y-5">
                             <h3 class="text-xl md:text-2xl xl:text-3xl">Make your <span
                                     class="text-yellow-500">organic</span> <br>
@@ -275,11 +275,11 @@
                 </div>
                 <!-- item 2 -->
                 <div class="flex flex-col items-center lg:flex-row gap-5">
-                    <div class="w-full lg:w-1/2">
+                    <div class="about_item_2-img w-full lg:w-1/2">
                         <img src="./assets/image/plant-2.png" alt="about_img"
                             class="w-full sm:w-2/3 lg:w-full xl:w-2/3 mx-auto">
                     </div>
-                    <div class="w-full lg:w-1/2">
+                    <div class="about_item_2-content w-full lg:w-1/2">
                         <div class="space-y-5">
                             <h3 class="text-xl md:text-2xl xl:text-3xl">Come with us <br>
                                 <span class="text-yellow-500">grow up</span>
@@ -297,9 +297,9 @@
             </div>
         </section>
 
-        <!------------------------- Popular Section ------------------------------->
-        <Section id="poiular" class="bg-green-900  py-10">
-            <div class="flex flex-col items-center gap-3 text-center mb-40 md:mb-28">
+        <!--------------- Popular Section ---------------------->
+        <Section id="popular" class="bg-green-900  py-10">
+            <div class="popular_top flex flex-col items-center gap-3 text-center mb-40 md:mb-28">
                 <h2 class="text-2xl md:text-3xl xl:text-4xl font-Lobster text-yellow-500">Your Choice Plant</h2>
                 <p class="max-w-2xl mb-5">Follow instruction for more</p>
             </div>
@@ -307,7 +307,7 @@
             <div
                 class="container w-full grid grid-cols-1 gap-x-8 gap-y-40 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
                 <!-- card 1 -->
-                <div class="bg-green-950 p-10 pt-24 rounded-md relative">
+                <div class="popular_card bg-green-950 p-10 pt-24 rounded-md relative">
                     <img src="./assets/image/cart-1.png" alt="cart_img"
                         class="w-56 absolute -top-5 left-1/2 transform -translate-x-1/2 -translate-y-1/2 duration-500 hover:-top-10">
                     <p class="text-slate-300 font-Lobster">Nephrolepis exaltata</p>
@@ -329,7 +329,7 @@
                     </div>
                 </div>
                 <!-- card 2 -->
-                <div class="bg-green-950 p-10 pt-24 rounded-md relative">
+                <div class="popular_card bg-green-950 p-10 pt-24 rounded-md relative">
                     <img src="./assets/image/cart-2.png" alt="cart_img"
                         class="w-56 absolute -top-5 left-1/2 transform -translate-x-1/2 -translate-y-1/2 duration-500 hover:-top-10">
                     <p class="text-slate-300 font-Lobster">Ficus elastica</p>
@@ -351,7 +351,7 @@
                     </div>
                 </div>
                 <!-- card 3 -->
-                <div class="bg-green-950 p-10 pt-24 rounded-md relative">
+                <div class="popular_card bg-green-950 p-10 pt-24 rounded-md relative">
                     <img src="./assets/image/cart-3.png" alt="cart_img"
                         class="w-56 absolute -top-5 left-1/2 transform -translate-x-1/2 -translate-y-1/2 duration-500 hover:-top-10">
                     <p class="text-slate-300 font-Lobster">Spathiphyllum wallisii</p>
@@ -373,7 +373,7 @@
                     </div>
                 </div>
                 <!-- card 4 -->
-                <div class="bg-green-950 p-10 pt-24 rounded-md relative">
+                <div class="popular_card bg-green-950 p-10 pt-24 rounded-md relative">
                     <img src="./assets/image/cart-4.png" alt="cart_img"
                         class="w-56 absolute -top-5 left-1/2 transform -translate-x-1/2 -translate-y-1/2 duration-500 hover:-top-10">
                     <p class="text-slate-300 font-Lobster">Adenium obesum</p>
@@ -395,7 +395,7 @@
                     </div>
                 </div>
                 <!-- card 5 -->
-                <div class="bg-green-950 p-10 pt-24 rounded-md relative">
+                <div class="popular_card bg-green-950 p-10 pt-24 rounded-md relative">
                     <img src="./assets/image/plant-1.png" alt="cart_img"
                         class="w-56 absolute -top-5 left-1/2 transform -translate-x-1/2 -translate-y-1/2 duration-500 hover:-top-10">
                     <p class="text-slate-300 font-Lobster">Swiss Cheese Plant</p>
@@ -417,7 +417,7 @@
                     </div>
                 </div>
                 <!-- card 6 -->
-                <div class="bg-green-950 p-10 pt-24 rounded-md relative">
+                <div class="popular_card bg-green-950 p-10 pt-24 rounded-md relative">
                     <img src="./assets/image/plant-2.png" alt="cart_img"
                         class="w-56 absolute -top-5 left-1/2 transform -translate-x-1/2 -translate-y-1/2 duration-500 hover:-top-10">
                     <p class="text-slate-300 font-Lobster">Pinstripe Plant</p>
@@ -441,18 +441,18 @@
             </div>
         </Section>
 
-        <!------------------ Review Section  --------------------->
-        <Section class="relative mb-20 md:mb-28 overflow-hidden pt-8">
-            <div class="absolute -top-9 -left-12 opacity-50">
+        <!------------------ Review Section  ------------------->
+        <Section id="review" class="relative mb-20 md:mb-28 overflow-hidden pt-8">
+            <div class="review_leaf absolute -top-9 -left-12 opacity-50">
                 <img src="./assets/image/leaf-3.png" alt="leaf-img" class="w-40 md:w-52 xl:w-64 animate-scaleUp">
             </div>
 
-            <div class="flex flex-col items-center gap-3 text-center mb-10 md:mb-20">
+            <div class="review_top flex flex-col items-center gap-3 text-center mb-10 md:mb-20">
                 <h2 class="text-2xl md:text-3xl xl:text-4xl font-Lobster text-yellow-500">Customer Review</h2>
                 <p class="max-w-2xl">Follow instruction for more</p>
             </div>
 
-            <div class="container">
+            <div class="review_swiper container">
                 <div class="swiper py-12">
                     <ul class="swiper-wrapper">
                         <li class="swiper-slide">
@@ -520,7 +520,7 @@
                             </div>
                         </li>
                     </ul>
-                    <div class="swiper-pagination"></div>
+                    <div class="swiper-pagination !relative mt-4"></div>
                 </div>
             </div>
         </Section>
@@ -548,7 +548,7 @@
             </div>
 
             <!-- social icon -->
-            <div class="container mt-10 mb-10">
+            <div class="footer_icon container mt-16 lg:mt-10 mb-10">
                 <div class="border-b border-green-500 relative">
                     <div class="absolute top-0 transform -translate-y-1/2 left-0 right-0 max-w-36 mx-auto">
                         <div class="bg-yellow-100 text-lg text-center space-x-2">
@@ -563,7 +563,7 @@
             </div>
 
             <!-- Footer Grid -->
-            <div class="container grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 text-center md:text-left">
+            <div class="footer_content container grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 text-center md:text-left">
                 <!-- Logo Section -->
                 <div class="space-y-2">
                     <div class="text-6xl text-green-700 inline-block">
@@ -607,21 +607,28 @@
             </div>
 
             <!-- Copyright -->
-            <div class="container">
+            <div class="copy_right container">
                 <p class="text-center mt-10 opacity-60 text-sm">&copy; 2024 WebDev. All rights reserved.</p>
             </div>
 
             <!-- Floral Image -->
-            <div class="absolute bottom-0 left-0 opacity-20 pointer-events-none w-full lg:w-1/2">
+            <div class="footer_floral absolute bottom-0 left-0 opacity-20 pointer-events-none w-full lg:w-1/2">
                 <img src="./assets/image/floral-1.png" alt="Floral image" class="w-full">
             </div>
         </Footer>
+
+        <!---------------- scroll up ---------------->
+        <a href="#"
+            class="fixed right-4 bottom-4 -bottom-1/2 bg-yellow-500 shadow-sm inline-block px-3 py-1 md:px-4 md:py-2 rounded-md text-lg z-50 hover:-translate-y-1 duration-300"
+            id="scroll-up">
+            <i class="ri-arrow-up-line"></i>
+        </a>
 
 
 
     </main>
 
-
+    <script src="./assets/js/scrollreveal.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script src="./assets/js/custom.js"></script>
 </body>
