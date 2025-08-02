@@ -1,130 +1,53 @@
-## Title  
-- Plant Website || TailwindCSS 
+# IndorePlants 🌿
+---
+A fully responsive wave-style landing page design built using **Tailwind CSS** and **JavaScript**. This project was created primarily to showcase design skills for a portfolio. The animations are implemented with JavaScript, but no complex interactivity has been added since the focus was purely on layout and responsiveness.
 
-## Navbar 
-- IndorePlants.
-- Home | About | Popular | Review
+![Website Preview](./assets/image/webpage.png)
 
-###  Hero Section Content (heading, icons and description):
-- <span class="text-yellow-500">Plants</span> make a <br>
-    positive 
-- <span class="text-yellow-500">impact</span> on <br>
-    your environment
+## 🚀 Live Preview
 
-- Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio fugiat eveniet, reprehenderit veritatis aut explicabo voluptatum ullam itaque tenetur numquam!
+[Click here to view the live site](https://indor-plants.vercel.app/)
 
-- <span>Shop Now</span>
-- <i class="ri-leaf-line"></i>
+## 📂 Project Features
 
-- <span>Know More</span>
-- <i class="ri-leaf-line"></i>
+- 🌊 Beautiful wave design layout
+- 💻 Fully responsive across devices
+- 🎨 Built with Tailwind CSS utility-first framework
+- 🧩 JavaScript animations for smooth transitions
+- 📱 Mobile-first design
+- 🧪 Clean, minimal UI suitable for portfolios
 
-- You will get 30-days free trial.
+## 🛠️ Tech Stack
 
---icon
-- <i class="ri-facebook-fill"></i>
-- <i class="ri-twitter-x-line"></i>
-- <i class="ri-instagram-line"></i>
-- <i class="ri-linkedin-fill"></i>
+- **HTML5**
+- **Tailwind CSS**
+- **JavaScript**
 
-- <i class="ri-leaf-line"></i>
-- <i class="ri-flower-line"></i>
-- <i class="ri-plant-line"></i>
+## 🧾 How to Run Locally
 
-### Sercive Section Content (heading, icons and description):
--<i class="ri-truck-line"></i>
+To run this project on your local device, follow these simple steps:
 
--Fast <br>Delivery
+1. **Clone the repository**  
+   ```bash
+   git clone <your-github-link>
+   ```
+2. **Clone the repository**
+cd indoreplants
 
--Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, facere debitis omnis
+3. **Open the index.html file in your browser**
+You can simply double-click the index.html file or run a live server if you have one (e.g., using VS Code Live Server extension).
 
--<i class="ri-customer-service-line"></i>
--Great Customer <br>Service
+### 📌 Notes
+- This project is purely front-end. No backend or framework dependencies.
+- The goal was to showcase responsive design using modern CSS techniques (Tailwind).
+- Interactivity can be added later if required.
 
--<i class="ri-plant-line"></i>
--Original <br>Plants
+## 👨‍💻 Author
 
-- <i class="ri-money-dollar-circle-line"></i>
-- Affordable <br>Price
+**Ziaul Hoque Patwary**  
+📧 Email: [**ziaul.dev@gmail.com**] 
+🔗 GitHub: [ziaul-hoque4820](https://github.com/ziaul-hoque4820)
 
-### About us Section Content (heading, icons and description):
-- About Us
-- Follow instruction for more
+---
 
-- Make your <span class="text-yellow-500">organic</span>  <br> garden
-
-- Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ratione rem maxime veniam cum libero voluptas tempora aut saepe similique, eos corporis. Expedita culpa consequatur animi deleniti ullam adipisci iure sequi dolores modi aliquam laudantium,
-explicabo nobis quia id reprehenderit.?
-
-- Come with us <br> <span class="text-yellow-500">grow up</span> your plant
-
-### Popular Section Content (heading, icons and description):
-- Your Choice Plant
-
-- Nephrolepis exaltata 
-- Boston Fern
-
-- <i class="ri-star-fill"></i>
-- <i class="ri-star-fill"></i>
-- <i class="ri-star-half-fill"></i>
-- <i class="ri-star-line"></i>
-- <i class="ri-star-line"></i>
-
-- $5
-- <i class="ri-shopping-cart-fill"></i>
-
-- Ficus elastica
-- Rubber Plant
-
-- Spathiphyllum wallisii
-- Peace Lily
-
-- Adenium obesum
-- Desert Rose
-
-### Review Section Content (heading, icons and description):
-
-- Customer Review
-
-- Lorem ipsum dolor sit amet consectetur adipisicing elit. Similiqu culpa ut amet voluptas asperiores alias sed consequatur.
-
-- John doe
-- Designer
-
-- <i class="ri-double-quotes-r"></i>
-
-### Footer Section Content (heading, icons and description):
-- <span class="text-yellow-500">Subscribe</span> to our newsletter
-Subscribe
-
-- <i class="ri-facebook-fill"></i>
-- <i class="ri-twitter-x-line"></i>
-- <i class="ri-instagram-line"></i>
-- <i class="ri-linkedin-fill"></i>
-
-- <i class="ri-leaf-fill"></i>
-- IndorePlants.
-
-- Quick Link
-- Plants
-- Flowers
-- Gerdening
-- Seeds
-- Shipping
-
-- Popular Services
-- Tree Planting
-- Grass Cutting
-- Weeds Control
-- Project
-
-- Contact Us
-- +8801708174005
-- ziaul.dev@gmail.com
-- 1234 Tailwind Ave, CSS City, Webland 56789, USA
-
-- Copyright &copy; 2024 LightCode. All rights reserved.
-
-### Scroll Up Section Content (heading, icons and description):
-- <i class="ri-arrow-up-line"></i>
-
+**Thanks for visiting the project! Feel free to star ⭐ the repo or contribute.**
