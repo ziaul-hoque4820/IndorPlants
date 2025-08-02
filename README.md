@@ -29,7 +29,7 @@ To run this project on your local device, follow these simple steps:
 
 1. **Clone the repository**  
    ```bash
-   git clone <your-github-link>
+   git clone https://github.com/ziaul-hoque4820/IndorPlants.git
    ```
 2. **Clone the repository**
 cd indoreplants
